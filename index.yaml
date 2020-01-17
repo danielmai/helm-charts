@@ -1,0 +1,73 @@
+apiVersion: v1
+entries:
+  dgraph:
+  - apiVersion: v1
+    appVersion: latest
+    created: "2020-01-17T05:05:48.4458623Z"
+    description: Dgraph is a horizontally scalable and distributed graph database,
+      providing ACID transactions, consistent replication and linearizable reads.
+    digest: bbea6549925b0bf1ab1f6f4d5540fa1ad6d9da9eada321002346920f7fa1479f
+    home: https://dgraph.io/
+    icon: https://dgraph.io/assets/images/logo.png
+    keywords:
+    - dgraph
+    - database
+    - Graph
+    - GraphQL
+    - nosql
+    maintainers:
+    - email: contact@dgraph.io
+      name: dgraph
+    name: dgraph
+    sources:
+    - https://github.com/dgraph-io/dgraph
+    urls:
+    - https://github.com/danielmai/helm-charts/releases/download/dgraph-0.0.3/dgraph-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v1
+    appVersion: latest
+    created: "2020-01-07T14:11:18.114227433-08:00"
+    description: Dgraph is a horizontally scalable and distributed graph database,
+      providing ACID transactions, consistent replication and linearizable reads.
+    digest: db9b890dacf28ebd2317f790b52d36f12ec166d2d41958a7ab3da16b141aeca4
+    home: https://dgraph.io/
+    icon: https://dgraph.io/assets/images/logo.png
+    keywords:
+    - dgraph
+    - database
+    - Graph
+    - GraphQL
+    - nosql
+    maintainers:
+    - email: contact@dgraph.io
+      name: dgraph
+    name: dgraph
+    sources:
+    - https://github.com/dgraph-io/dgraph
+    urls:
+    - https://github.com/danielmai/helm-charts/releases/download/dgraph-0.0.2/dgraph-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v1
+    appVersion: latest
+    created: "2019-12-04T14:23:06.868259212-08:00"
+    description: Dgraph is a horizontally scalable and distributed graph database,
+      providing ACID transactions, consistent replication and linearizable reads.
+    digest: 50a9079917557209fb4438887f67665fa1d8a74b17717ddd467988fd07ab8770
+    home: https://dgraph.io/
+    icon: https://dgraph.io/assets/images/logo.png
+    keywords:
+    - dgraph
+    - database
+    - Graph
+    - GraphQL
+    - nosql
+    maintainers:
+    - email: contact@dgraph.io
+      name: dgraph
+    name: dgraph
+    sources:
+    - https://github.com/dgraph-io/dgraph
+    urls:
+    - https://github.com/danielmai/helm-charts/releases/download/dgraph-0.0.1/dgraph-0.0.1.tgz
+    version: 0.0.1
+generated: "2019-12-04T14:23:06.652805155-08:00"
